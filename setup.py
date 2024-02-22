@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='GoTaskz',
+    name='go-task-zz',
     version='0.1',
     description='A simple command-line task management application',
     author='',
